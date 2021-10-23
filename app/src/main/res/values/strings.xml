@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cold Calling App</string>
+    <string name="title_home">Called</string>
+    <string name="title_dashboard">Random</string>
+    <string name="title_notifications">Uncalled</string>
+    <string name="text_random">Click the button to generate a random student.</string>
+    <string name="button_random">Generate</string>
+    <string name="text_student_name">Student Name</string>
+</resources>
